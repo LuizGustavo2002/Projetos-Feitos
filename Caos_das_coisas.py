@@ -1,4 +1,4 @@
-#Exemplo de como a minoria afeta a organizacao de todo um todo. Bagunca de halteres numa academia
+#Exemplo de como uma minoria pode afetar a organizacao de todo um todo. Bagunca de halteres numa academia
 import random
 import seaborn as sns
 
